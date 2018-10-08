@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LogTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LogTool_jar</output-path>
+    <root id="archive" name="LogTool.jar">
+      <element id="module-output" name="LogTool" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/RXTXcomm.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
